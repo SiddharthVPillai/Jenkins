@@ -5,6 +5,8 @@ print("Hello World Demo...Jan 2024...\n")
 
 
 print("Hemlo")
+print("Hemlo")
+
 
 
 
